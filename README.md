@@ -19,4 +19,4 @@ All references are credited where known. Any mis-attributions/overlooked credit 
 
 ### Licensing
 
-Any of my original work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Any of my original work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You can find the license conditions [here](https://github.com/hailnolly/presentations/blob/main/Creative%20Commons%20Attribution-NonCommercial-ShareAlike%204.0%20International%20Public%20License.txt).
