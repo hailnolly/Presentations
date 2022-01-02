@@ -5,7 +5,7 @@ This page contains conference presentations I've given.
 
 ## Conference Presentations
 
-* BeerCon3 - Lessons Learned From Trying (And Failing) At User Education: [Slide Deck](https://github.com/hailnolly/presentations/files/7799783/Infosec.Awareness.Training.Doesn.t.Work.v1.0.pdf) | [Video](https://www.youtube.com/watch?v=WPkVyqZ5HoE)
+* BeerCon3 - Lessons Learned From Trying (And Failing) At User Education: [Slide Deck](https://github.com/hailnolly/presentations/blob/main/Lessons%20Learned%20from%20Trying%20and%20Failing%20at%20User%20Education%20v1.0.pdf) | [Video](https://www.youtube.com/watch?v=WPkVyqZ5HoE)
 
 ## Disclaimers
 
